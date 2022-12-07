@@ -15,7 +15,7 @@ public class CinemachineTimelineTrigger : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            player.SetActive(false);            
+            //player.SetActive(false);            
             timeline.Play();
 
 
