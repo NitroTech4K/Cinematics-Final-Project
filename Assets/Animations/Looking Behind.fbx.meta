@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 3c77d3ff69682764692e2ad8cb109ecf
+guid: 32f1f3fed9ace7c43b252fcc3334c0d2
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
-    second: mixamo.com
+    second: LookRightBehind
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -36,11 +36,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: mixamo.com
+      name: LookRightBehind
       takeName: mixamo.com
       internalID: 0
       firstFrame: 0
-      lastFrame: 96
+      lastFrame: 242
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
