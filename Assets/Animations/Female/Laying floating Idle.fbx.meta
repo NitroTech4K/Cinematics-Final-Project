@@ -1,17 +1,14 @@
 fileFormatVersion: 2
-guid: 6dbb8d89979ead445840e12c0c5daa74
+guid: 92f08c9fd148a734f82a3e069b3b446a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable:
   - first:
-      74: 4715128411006859843
-    second: swim2
+      74: -203655887218126122
+    second: floating laying back
   - first:
       74: -203655887218126122
     second: mixamo.com
-  - first:
-      74: 4715128411006859843
-    second: Take 003
   externalObjects: {}
   materials:
     materialImportMode: 2
